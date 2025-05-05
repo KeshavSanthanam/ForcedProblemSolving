@@ -1,0 +1,2 @@
+Prove that merge sort works by induction. 
+How many math majors does it take to change a lightbulb?
